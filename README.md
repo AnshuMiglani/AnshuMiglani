@@ -124,15 +124,6 @@ I'm skilled in WebSocket-based systems, JWT authentication, Docker containerizat
 
 <div align="center">
 
-<a href="https://github.com/AnshuMiglani">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=AnshuMiglani&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
-</a>
-<a href="https://github.com/AnshuMiglani">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnshuMiglani&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" />
-</a>
-
-<br/>
-
 <img src="https://streak-stats.demolab.com/?user=AnshuMiglani&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 
 <br/>
