@@ -1,21 +1,186 @@
-# 💫 About Me:
-I’m a Software Development Engineer Intern with hands-on experience in building full-stack, production-ready web applications. I primarily work with React.js, Next.js, Node.js, and FastAPI, and I enjoy developing scalable systems that solve real-world problems.<br><br>Currently, I’m working at Transpacks Technologies Pvt. Ltd., where I contribute to logistics and supply-chain platforms by building frontend dashboards, designing RESTful APIs, and optimizing backend performance. I focus on writing clean, maintainable code and following best practices such as code reviews and CI/CD workflows.<br><br>I have a strong interest in Data Structures and Algorithms, having solved 400+ problems on LeetCode, and I’m a 5-star HackerRank (C++) coder. I enjoy problem-solving, understanding system design fundamentals, and continuously improving my engineering skills.<br><br>I’m actively working on improving my full-stack and backend expertise and am interested in opportunities where I can collaborate with experienced engineers, take ownership of features, and contribute to impactful software products.
+<!-- ============================================================
+  BEFORE YOU COMMIT: search this file for "TODO" and replace each
+  placeholder with your real link (LeetCode, portfolio, repo names, etc.)
+============================================================ -->
 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Anshu%20Miglani&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Software%20Engineer&descAlignY=58&descSize=18" alt="Anshu Miglani banner" />
 
-## 🌐 Socials:
-[![Bluesky](https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=%23FFFFFF)](https://bsky.app/profile/AnshuMiglani) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/anshumiglani_08) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anshu-miglani-a00755257/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:anshumiglani0808@gmail.com) 
+<div align="center">
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![Context-API](https://img.shields.io/badge/Context--Api-000000?style=for-the-badge&logo=react) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![Strapi](https://img.shields.io/badge/strapi-%232E7EEA.svg?style=for-the-badge&logo=strapi&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=AnshuMiglani&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=AnshuMiglani&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AnshuMiglani&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Full-Stack+Developer+%28MERN+%C2%B7+Next.js+%C2%B7+FastAPI%29;Building+scalable+real-time+web+systems;400%2B+LeetCode+problems+solved;Smart+India+Hackathon+2024+Finalist)](https://github.com/AnshuMiglani)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=AnshuMiglani&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<p>
+  <a href="https://www.linkedin.com/in/anshu-miglani-a00755257/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:anshumiglani0808@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://TODO-your-portfolio-url.com"><img src="https://img.shields.io/badge/Portfolio-0F172A?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://leetcode.com/u/TODO_LEETCODE_USERNAME/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
+  <a href="https://www.hackerrank.com/profile/TODO_HACKERRANK_USERNAME"><img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black" alt="HackerRank" /></a>
+  <a href="https://bsky.app/profile/AnshuMiglani"><img src="https://img.shields.io/badge/Bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=white" alt="Bluesky" /></a>
+  <a href="https://instagram.com/anshumiglani_08"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+</p>
+
+<img src="https://komarev.com/ghpvc/?username=AnshuMiglani&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile views" />
+
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=AnshuMiglani&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 👨‍💻 About Me
+
+Computer Science graduate (B.Tech, UIET Kurukshetra, CGPA 8.9/10) and full-stack developer who builds production-ready web applications with **React.js, Next.js, Node.js and FastAPI**. I recently completed my SDE internship at **Transpacks Technologies**, where I worked on real-time logistics and supply-chain dashboards and REST APIs.
+
+- 🔭 Building full-stack products with real-time features (WebSockets, Socket.io)
+- 🤖 Exploring applied AI: Gemini API, LangChain, RAG and vector databases
+- 🧠 400+ LeetCode problems solved in C++ · 5★ C++ on HackerRank
+- 🏆 Finalist, Smart India Hackathon 2024 · Winner, Aawahan 2023
+- 🌱 Currently learning: Generative AI Applications with RAG and LangChain (IBM, Coursera)
+- 📫 **Open to full-time SDE / full-stack / backend roles**. Reach me at [anshumiglani0808@gmail.com](mailto:anshumiglani0808@gmail.com)
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages**
+
+![C](https://skillicons.dev/icons?i=c,cpp,python,java,js,ts&theme=dark)
+
+**Frontend**
+
+![Frontend](https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind,bootstrap,sass&theme=dark)
+
+**Backend & Databases**
+
+![Backend](https://skillicons.dev/icons?i=nodejs,express,fastapi,mongodb,mysql,firebase&theme=dark)
+
+**DevOps, Cloud & Tools**
+
+![DevOps](https://skillicons.dev/icons?i=docker,aws,azure,vercel,git,github,gitlab,postman&theme=dark)
+
+**AI / Data**
+
+![AI](https://skillicons.dev/icons?i=opencv,numpy,pandas&theme=dark) &nbsp; `LangChain` `RAG` `Gemini API` `Vector DBs` `MediaPipe`
+
+---
+
+## 💼 Experience
+
+**Software Development Engineer Intern** · [Transpacks Technologies Pvt. Ltd.](https://TODO-transpacks-website.com) · *Oct 2025 – Aug 2026*
+
+- Built logistics and supply-chain features with **Next.js, FastAPI and Strapi**, supporting 100+ concurrent users
+- Developed real-time dashboards and REST APIs, **cutting data lookup time by 30%**
+- Containerized services with **Docker** and deployed on **AWS** for consistent environments
+- Followed code reviews and CI/CD practices, **reducing deployment issues by 20%**
+- Worked in Agile, 2-week sprints with cross-functional teams
+
+---
+
+## 🚀 Featured Projects
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>⚡ Real-Time Collaborative Code Editor</h3>
+      <p>Multi-user code editor with live sync for <b>50+ simultaneous users</b>, room-based sessions and Monaco Editor supporting 10+ languages.</p>
+      <p><code>React</code> <code>Node.js</code> <code>Express</code> <code>Socket.io</code> <code>Monaco</code></p>
+      <p><a href="https://github.com/AnshuMiglani/TODO-repo-name">Code</a> · <a href="https://TODO-live-demo-url.com">Live Demo</a></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>💪 MakeFit: Fitness Web App</h3>
+      <p>MERN fitness platform with JWT auth, BMI/calorie/macro calculators, SVG muscle maps and <b>FitBot AI</b> (Gemini API). 100+ active users, +35% engagement.</p>
+      <p><code>MongoDB</code> <code>Express</code> <code>React</code> <code>Node.js</code> <code>Gemini</code></p>
+      <p><a href="https://github.com/AnshuMiglani/TODO-repo-name">Code</a> · <a href="https://TODO-live-demo-url.com">Live Demo</a></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🌦️ Real-Time Weather App</h3>
+      <p>Live weather and forecasts for 100+ global locations via OpenWeather API. Responsive UI, 50+ users, 99% uptime.</p>
+      <p><code>JavaScript</code> <code>REST API</code> <code>CSS</code></p>
+      <p><a href="https://github.com/AnshuMiglani/TODO-repo-name">Code</a> · <a href="https://TODO-live-demo-url.com">Live Demo</a></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>📦 More on GitHub</h3>
+      <p>Explore all my repositories, experiments and open-source contributions.</p>
+      <p><a href="https://github.com/AnshuMiglani?tab=repositories">View all repositories →</a></p>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<a href="https://github.com/AnshuMiglani">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=AnshuMiglani&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub stats" />
+</a>
+<a href="https://github.com/AnshuMiglani">
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnshuMiglani&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" />
+</a>
+
+<br/>
+
+<img src="https://streak-stats.demolab.com/?user=AnshuMiglani&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+
+<br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AnshuMiglani&theme=tokyonight" alt="Profile details" />
+
+</div>
+
+### 🧩 Coding Profiles
+
+<div align="center">
+
+<a href="https://leetcode.com/u/TODO_LEETCODE_USERNAME/">
+  <img src="https://leetcard.jacoblin.cool/TODO_LEETCODE_USERNAME?theme=dark&font=Fira%20Code&ext=heatmap" alt="LeetCode stats" width="600" />
+</a>
+
+</div>
+
+### 📈 Contribution Graph
+
+<div align="center">
+
+[![Contribution graph](https://github-readme-activity-graph.vercel.app/graph?username=AnshuMiglani&theme=tokyo-night&hide_border=true&area=true)](https://github.com/AnshuMiglani)
+
+</div>
+
+---
+
+## 🏆 Achievements & Certifications
+
+- 🥇 **Finalist**, Smart India Hackathon 2024
+- 🥇 **Winner**, Aawahan 2023 Coding Competition
+- 🎯 **Participant**, Kavach 2023 Hackathon
+- 🧮 400+ problems solved on [LeetCode](https://leetcode.com/u/TODO_LEETCODE_USERNAME/) · 5★ C++ on [HackerRank](https://www.hackerrank.com/profile/TODO_HACKERRANK_USERNAME)
+- 🎓 In progress: IBM (Coursera), *Generative AI Applications with RAG and LangChain*
+- 💼 Virtual experiences: JPMorgan Chase & Co. and Skyscanner (Software Engineering)
+
+---
+
+## 🎓 Education
+
+| Program | Institution | Year | Score |
+|---|---|---|---|
+| B.Tech, Computer Science Engineering | UIET, Kurukshetra | 2022 – 2026 | CGPA 8.9 / 10 |
+| Class 12 (CBSE) | Maharana Pratap Public School, Kurukshetra | 2022 | 94.2% |
+| Class 10 (CBSE) | Holy Child School, Kurukshetra | 2020 | 89.8% |
+
+---
+
+## 🤝 Let's Connect
+
+I'm open to full-time roles and collaboration on interesting products. Feel free to reach out!
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anshu-miglani-a00755257/)
+[![Email](https://img.shields.io/badge/Send%20an%20Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anshumiglani0808@gmail.com)
+
+<br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" alt="footer" />
+
+</div>
